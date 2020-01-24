@@ -15,7 +15,7 @@ https://tools.ietf.org/html/rfc2229
     3.8 - HELP
     3.9 - QUIT
 
-### Cборке
+### Cборка
 
     1. make all - собрать и клиент, и сервер.
     2. make client - собрать клиента.
